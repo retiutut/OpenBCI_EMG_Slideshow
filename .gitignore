@@ -1,7 +1,10 @@
 # Don't track content of these folders
 node_modules/
-someOtherfoler/
+other/
 
+README.md
+LICENSE.txt
+CHANGELOG.md
 
 # Compiled source #
 ###################
