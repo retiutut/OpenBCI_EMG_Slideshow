@@ -1,9 +1,9 @@
 {
 	"name" : "EMG Slideshow",
 	"version" : 1,
-	"creationdate" : 2082823198,
-	"modificationdate" : 3642523723,
-	"viewrect" : [ 147.0, 45.0, 300.0, 500.0 ],
+	"creationdate" : 2082823077,
+	"modificationdate" : 3642575377,
+	"viewrect" : [ 88.0, 198.0, 300.0, 500.0 ],
 	"autoorganize" : 1,
 	"hideprojectwindow" : 0,
 	"showdependencies" : 1,
@@ -19,10 +19,6 @@
 		}
 ,
 		"code" : 		{
-			"OpenBCI-ganglion-wifi_direct-nodeJS.js" : 			{
-				"kind" : "javascript",
-				"local" : 1
-			}
 
 		}
 ,

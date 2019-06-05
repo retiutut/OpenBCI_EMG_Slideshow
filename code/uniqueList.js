@@ -2,8 +2,8 @@
 inlets = 1;
 outlets = 1;
 
-
 var data = [];
+var dataUnique;
 
 var arrayUnique = function (arr) {
 	return arr.filter(function(item, index){
@@ -22,6 +22,10 @@ function clear() {
 }
 
 function bang() {
-	var dataUnique = arrayUnique(data);
-	outlet(0, dataUnique);
+	dataUnique = arrayUnique(data);
+	if (dataUnique == null) {	
+		outlet(0, dataUnique);
+	} else {
+		outlet(0, "");
+	}
 }
