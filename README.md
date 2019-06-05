@@ -1,4 +1,0 @@
-# EMG-Slideshow
-
-
-Details
