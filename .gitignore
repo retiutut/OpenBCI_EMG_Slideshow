@@ -2,7 +2,11 @@
 node_modules/
 other/
 
+README.md
+LICENSE.md
+CHANGELOG.md
 
+.md
 
 # Compiled source #
 ###################
