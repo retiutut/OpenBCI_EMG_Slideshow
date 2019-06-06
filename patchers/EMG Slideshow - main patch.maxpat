@@ -10,9 +10,9 @@
 		}
 ,
 		"classnamespace" : "box",
-		"rect" : [ 444.0, 105.0, 1227.0, 762.0 ],
+		"rect" : [ 823.0, 169.0, 1055.0, 578.0 ],
 		"bglocked" : 0,
-		"openinpresentation" : 0,
+		"openinpresentation" : 1,
 		"default_fontsize" : 12.0,
 		"default_fontface" : 0,
 		"default_fontname" : "Arial",
@@ -32,7 +32,7 @@
 		"enablehscroll" : 1,
 		"enablevscroll" : 1,
 		"devicewidth" : 0.0,
-		"description" : "",
+		"description" : "This app allows a user to control a slideshow of pictures and movies from a given file directory using muscles only (e.g. open and closing hands).",
 		"digest" : "",
 		"tags" : "",
 		"style" : "",
@@ -915,7 +915,7 @@
 					"numoutlets" : 0,
 					"patching_rect" : [ 820.473877000000016, 314.320740000000001, 236.0, 26.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 501.485520503616272, 538.000000000000114, 216.0, 26.0 ],
+					"presentation_rect" : [ 421.485520503616272, 521.000000000000114, 216.0, 26.0 ],
 					"text" : "Use Arm-Based NN",
 					"textjustification" : 1
 				}
@@ -932,7 +932,7 @@
 					"parameter_enable" : 0,
 					"patching_rect" : [ 813.213531499999931, 310.173459975341416, 247.463562000000024, 35.441840073975754 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 501.485520503616272, 534.000000000000114, 216.0, 34.0 ]
+					"presentation_rect" : [ 421.485520503616272, 517.000000000000114, 216.0, 34.0 ]
 				}
 
 			}
@@ -948,7 +948,7 @@
 					"numoutlets" : 0,
 					"patching_rect" : [ 602.293243999999959, 58.0, 96.290069000000017, 69.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 209.568833503616361, 530.0, 268.0, 22.0 ],
+					"presentation_rect" : [ 129.568833503616361, 513.0, 268.0, 22.0 ],
 					"text" : "Click to get info on the above MIRA frame",
 					"textcolor" : [ 0.996078431372549, 0.984313725490196, 0.984313725490196, 1.0 ],
 					"textjustification" : 1
@@ -966,7 +966,7 @@
 					"numoutlets" : 0,
 					"patching_rect" : [ 315.220245999999975, 355.29456004931717, 79.0, 22.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 442.652177003616316, 234.486668959528004, 75.0, 22.0 ],
+					"presentation_rect" : [ 362.652177003616316, 217.486668959528004, 75.0, 22.0 ],
 					"text" : "Fullscreen",
 					"textjustification" : 1
 				}
@@ -984,7 +984,7 @@
 					"parameter_enable" : 1,
 					"patching_rect" : [ 266.375030999999979, 347.79456004931717, 37.0, 37.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 398.152177003616316, 222.202493919055996, 44.568350080944015, 44.568350080944015 ],
+					"presentation_rect" : [ 318.152177003616316, 205.202493919055996, 44.568350080944015, 44.568350080944015 ],
 					"saved_attribute_attributes" : 					{
 						"valueof" : 						{
 							"parameter_longname" : "toggle[2]",
@@ -1012,7 +1012,7 @@
 					"numoutlets" : 0,
 					"patching_rect" : [ 565.760375999999951, 156.5, 113.0, 53.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 209.568833503616361, 550.000000000000114, 268.0, 22.0 ],
+					"presentation_rect" : [ 129.568833503616361, 533.000000000000114, 268.0, 22.0 ],
 					"text" : "Connect to MIRA via 10.0.1.19: 8086",
 					"textcolor" : [ 0.019607843137255, 0.458823529411765, 0.607843137254902, 1.0 ],
 					"textjustification" : 1
@@ -1030,7 +1030,7 @@
 					"parameter_enable" : 1,
 					"patching_rect" : [ 565.760375999999951, 58.0, 27.0, 27.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 159.318833503616361, 530.0, 42.000000000000114, 42.000000000000114 ],
+					"presentation_rect" : [ 79.318833503616361, 513.0, 42.000000000000114, 42.000000000000114 ],
 					"saved_attribute_attributes" : 					{
 						"valueof" : 						{
 							"parameter_longname" : "button[5]",
@@ -1058,7 +1058,7 @@
 					"numoutlets" : 0,
 					"patching_rect" : [ 315.220245999999975, 292.053222500000061, 81.0, 38.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 585.534332499999891, 226.520843999999983, 105.0, 22.0 ],
+					"presentation_rect" : [ 505.534332499999891, 209.520843999999983, 105.0, 22.0 ],
 					"text" : "Clear All Data",
 					"textjustification" : 1
 				}
@@ -1075,7 +1075,7 @@
 					"parameter_enable" : 1,
 					"patching_rect" : [ 266.375030999999979, 292.053222500000061, 37.160888999999997, 37.160888999999997 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 622.034332499999891, 191.770843999999983, 32.0, 32.0 ],
+					"presentation_rect" : [ 542.034332499999891, 174.770843999999983, 32.0, 32.0 ],
 					"saved_attribute_attributes" : 					{
 						"valueof" : 						{
 							"parameter_longname" : "button[4]",
@@ -1101,7 +1101,7 @@
 					"numoutlets" : 0,
 					"patching_rect" : [ 288.145858999999916, 447.511719000000028, 54.0, 20.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 532.534332499999891, 306.943358999999987, 54.0, 20.0 ],
+					"presentation_rect" : [ 452.534332499999891, 289.943358999999987, 54.0, 20.0 ],
 					"text" : "Volume",
 					"textcolor" : [ 0.0, 0.0, 0.0, 1.0 ],
 					"textjustification" : 1
@@ -1119,7 +1119,7 @@
 					"parameter_enable" : 1,
 					"patching_rect" : [ 227.298461999999859, 421.729247999999984, 173.694794000000002, 22.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 446.034332499999891, 284.943358999999987, 227.0, 22.0 ],
+					"presentation_rect" : [ 366.034332499999891, 267.943358999999987, 227.0, 22.0 ],
 					"saved_attribute_attributes" : 					{
 						"valueof" : 						{
 							"parameter_longname" : "Movie Volume",
@@ -2430,7 +2430,7 @@
 					"parameter_enable" : 1,
 					"patching_rect" : [ 266.375030999999979, 561.577026000000046, 157.041655999999989, 22.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 266.586242333984387, 469.589111000000003, 315.500000499999885, 22.0 ],
+					"presentation_rect" : [ 186.586242333984387, 452.589111000000003, 315.500000499999885, 22.0 ],
 					"saved_attribute_attributes" : 					{
 						"valueof" : 						{
 							"parameter_longname" : "umenu",
@@ -2457,7 +2457,7 @@
 					"numoutlets" : 0,
 					"patching_rect" : [ 106.385436999999996, 453.511719000000028, 84.0, 18.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 238.777177003616202, 421.193358999999987, 95.0, 18.0 ],
+					"presentation_rect" : [ 158.777177003616202, 404.193358999999987, 95.0, 18.0 ],
 					"text" : "Speed(Ms)",
 					"textcolor" : [ 0.996078431372549, 0.996078431372549, 0.996078431372549, 1.0 ],
 					"textjustification" : 1
@@ -2475,7 +2475,7 @@
 					"outlettype" : [ "jit_matrix", "" ],
 					"patching_rect" : [ 512.540130999999974, 305.320740000000001, 217.753113000000013, 293.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 792.83468599999992, 50.500008919056029, 307.003112999999985, 469.993966919056049 ]
+					"presentation_rect" : [ 712.83468599999992, 33.500008919056029, 307.003112999999985, 469.993966919056049 ]
 				}
 
 			}
@@ -2489,7 +2489,7 @@
 					"numoutlets" : 0,
 					"patching_rect" : [ 982.66241500000001, 633.455444000000057, 73.0, 20.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 613.575988999999936, 418.443358999999987, 83.0, 20.0 ],
+					"presentation_rect" : [ 533.575988999999936, 401.443358999999987, 83.0, 20.0 ],
 					"text" : "Play/Pause",
 					"textjustification" : 1
 				}
@@ -2505,7 +2505,7 @@
 					"numoutlets" : 0,
 					"patching_rect" : [ 901.915526999999997, 633.455444000000057, 73.0, 20.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 518.034332499999891, 418.443358999999987, 83.0, 20.0 ],
+					"presentation_rect" : [ 438.034332499999891, 401.443358999999987, 83.0, 20.0 ],
 					"text" : "Forward",
 					"textjustification" : 1
 				}
@@ -2521,7 +2521,7 @@
 					"numoutlets" : 0,
 					"patching_rect" : [ 820.473877000000016, 633.455444000000057, 73.0, 20.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 424.075988999999936, 418.443358999999987, 83.0, 20.0 ],
+					"presentation_rect" : [ 344.075988999999936, 401.443358999999987, 83.0, 20.0 ],
 					"text" : "Backward",
 					"textjustification" : 1
 				}
@@ -2539,7 +2539,7 @@
 					"parameter_enable" : 1,
 					"patching_rect" : [ 106.385436999999996, 418.511719000000028, 72.0, 26.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 243.777177003616202, 394.943358999999987, 85.0, 26.0 ],
+					"presentation_rect" : [ 163.777177003616202, 377.943358999999987, 85.0, 26.0 ],
 					"saved_attribute_attributes" : 					{
 						"valueof" : 						{
 							"parameter_longname" : "number",
@@ -8517,7 +8517,7 @@
 					"patching_rect" : [ 147.25, 260.633667000000003, 84.0, 69.0 ],
 					"presentation" : 1,
 					"presentation_linecount" : 3,
-					"presentation_rect" : [ 245.919586083984314, 195.520843999999954, 103.732590919631889, 53.0 ],
+					"presentation_rect" : [ 165.919586083984314, 178.520843999999954, 103.732590919631889, 53.0 ],
 					"text" : "Select a folder with pictures and movies",
 					"textjustification" : 1
 				}
@@ -8598,7 +8598,7 @@
 					"parameter_enable" : 1,
 					"patching_rect" : [ 102.404785000000004, 292.053222500000061, 37.160888999999997, 37.160888999999997 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 182.027177003616259, 189.520843999999954, 62.0, 62.0 ],
+					"presentation_rect" : [ 102.027177003616259, 172.520843999999954, 62.0, 62.0 ],
 					"saved_attribute_attributes" : 					{
 						"valueof" : 						{
 							"parameter_longname" : "button[3]",
@@ -10428,7 +10428,7 @@
 					"parameter_enable" : 1,
 					"patching_rect" : [ 820.473877000000016, 519.276184000000057, 41.5, 41.5 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 424.075988999999936, 337.943358999999987, 83.0, 83.0 ],
+					"presentation_rect" : [ 344.075988999999936, 320.943358999999987, 83.0, 83.0 ],
 					"saved_attribute_attributes" : 					{
 						"valueof" : 						{
 							"parameter_longname" : "button[2]",
@@ -10455,7 +10455,7 @@
 					"parameter_enable" : 1,
 					"patching_rect" : [ 901.915526999999997, 519.276184000000057, 41.5, 41.5 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 518.034332499999891, 337.943358999999987, 83.0, 83.0 ],
+					"presentation_rect" : [ 438.034332499999891, 320.943358999999987, 83.0, 83.0 ],
 					"saved_attribute_attributes" : 					{
 						"valueof" : 						{
 							"parameter_longname" : "button[1]",
@@ -10482,7 +10482,7 @@
 					"parameter_enable" : 1,
 					"patching_rect" : [ 980.665526999999997, 519.276184000000057, 41.5, 41.5 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 613.575988999999936, 337.943358999999987, 83.0, 83.0 ],
+					"presentation_rect" : [ 533.575988999999936, 320.943358999999987, 83.0, 83.0 ],
 					"saved_attribute_attributes" : 					{
 						"valueof" : 						{
 							"parameter_longname" : "button",
@@ -14038,7 +14038,7 @@
 					"patching_rect" : [ 749.160399999999981, 116.000014999999991, 325.0, 85.0 ],
 					"presentation" : 1,
 					"presentation_linecount" : 4,
-					"presentation_rect" : [ 188.902177003616259, 112.736443919056029, 517.0, 62.0 ],
+					"presentation_rect" : [ 108.902177003616259, 95.736443919056029, 517.0, 62.0 ],
 					"text" : "This app allows a user to control a slideshow of pictures and movies from a given file directory using muscles only (e.g. open and closing hands). Signal acquisition and processing are handled by the OpenBCI GUI. Normalized EMG data is then streamed via OSC to a simple neural network in Max. A facilitator prepares the user and has override control using a browser based interface via MIRA.\n",
 					"textcolor" : [ 0.862745, 0.870588, 0.878431, 1.0 ],
 					"textjustification" : 1
@@ -14055,7 +14055,7 @@
 					"numoutlets" : 0,
 					"patching_rect" : [ 791.660399999999981, 86.5, 235.0, 20.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 334.902177003616373, 92.801041919056019, 207.0, 20.0 ],
+					"presentation_rect" : [ 254.902177003616373, 75.801041919056019, 207.0, 20.0 ],
 					"text" : "Richard Waltman, June 2019",
 					"textcolor" : [ 0.862745, 0.870588, 0.878431, 1.0 ],
 					"textjustification" : 1
@@ -14072,7 +14072,7 @@
 					"numoutlets" : 0,
 					"patching_rect" : [ 772.160400000000095, 50.999999999999986, 274.0, 34.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 257.402177003616373, 56.801041919056026, 362.0, 34.0 ],
+					"presentation_rect" : [ 177.402177003616373, 39.801041919056026, 362.0, 34.0 ],
 					"text" : "EMG Slideshow",
 					"textcolor" : [ 0.862745, 0.870588, 0.878431, 1.0 ],
 					"textjustification" : 1
@@ -14154,7 +14154,7 @@
 					"numoutlets" : 0,
 					"patching_rect" : [ 175.916686999999996, 108.0, 108.0, 22.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 442.652177003616316, 193.520843999999954, 99.0, 22.0 ],
+					"presentation_rect" : [ 362.652177003616316, 176.520843999999954, 99.0, 22.0 ],
 					"text" : "Off",
 					"textjustification" : 1
 				}
@@ -14172,7 +14172,7 @@
 					"parameter_enable" : 1,
 					"patching_rect" : [ 97.916686999999996, 58.0, 77.0, 77.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 398.152177003616316, 171.270843999999926, 42.500000000000057, 42.500000000000057 ],
+					"presentation_rect" : [ 318.152177003616316, 154.270843999999926, 42.500000000000057, 42.500000000000057 ],
 					"saved_attribute_attributes" : 					{
 						"valueof" : 						{
 							"parameter_longname" : "toggle[1]",
@@ -14199,7 +14199,7 @@
 					"numoutlets" : 0,
 					"patching_rect" : [ 175.916686999999996, 65.5, 111.0, 22.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 442.652177003616316, 171.270843999999926, 99.0, 22.0 ],
+					"presentation_rect" : [ 362.652177003616316, 154.270843999999926, 99.0, 22.0 ],
 					"text" : "Show Display",
 					"textjustification" : 1
 				}
@@ -14280,7 +14280,7 @@
 					"numoutlets" : 0,
 					"patching_rect" : [ 379.416687000000024, 108.0, 124.0, 27.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 232.277177003616259, 363.943358999999987, 108.0, 27.0 ],
+					"presentation_rect" : [ 152.277177003616259, 346.943358999999987, 108.0, 27.0 ],
 					"text" : "Off",
 					"textjustification" : 1
 				}
@@ -14311,7 +14311,7 @@
 					"parameter_enable" : 1,
 					"patching_rect" : [ 301.416687000000024, 58.0, 77.0, 77.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 182.027177003616259, 337.943358999999987, 48.25, 48.25 ],
+					"presentation_rect" : [ 102.027177003616259, 320.943358999999987, 48.25, 48.25 ],
 					"saved_attribute_attributes" : 					{
 						"valueof" : 						{
 							"parameter_longname" : "toggle",
@@ -14338,7 +14338,7 @@
 					"numoutlets" : 0,
 					"patching_rect" : [ 379.416687000000024, 58.0, 121.0, 27.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 232.277177003616259, 337.943358999999987, 108.0, 27.0 ],
+					"presentation_rect" : [ 152.277177003616259, 320.943358999999987, 108.0, 27.0 ],
 					"text" : "Auto-Scroll",
 					"textjustification" : 1
 				}
@@ -33006,7 +33006,7 @@
 					"numoutlets" : 0,
 					"patching_rect" : [ 796.239624000000049, 245.589111000000003, 284.697814999999991, 432.044555999999943 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 159.318833503616361, 456.589111000000059, 558.166686999999911, 48.0 ],
+					"presentation_rect" : [ 79.318833503616361, 439.589111000000059, 558.166686999999911, 48.0 ],
 					"proportion" : 0.39,
 					"pt1" : [ 0.5, 0.05 ],
 					"pt2" : [ 0.49505, 1.321739 ]
@@ -33026,7 +33026,7 @@
 					"numoutlets" : 0,
 					"patching_rect" : [ 490.752899083984346, 245.589111000000003, 274.416686999999968, 395.25 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 159.318833503616361, 275.537108999999987, 558.166686999999911, 174.46875 ],
+					"presentation_rect" : [ 79.318833503616361, 258.537108999999987, 558.166686999999911, 174.46875 ],
 					"proportion" : 0.39
 				}
 
@@ -33044,7 +33044,7 @@
 					"numoutlets" : 0,
 					"patching_rect" : [ 79.5, 39.875, 629.416687000000024, 185.25 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 159.318833503616361, 166.958344000000011, 558.166686999999911, 105.125 ],
+					"presentation_rect" : [ 79.318833503616361, 149.958344000000011, 558.166686999999911, 105.125 ],
 					"proportion" : 0.39
 				}
 
@@ -33062,7 +33062,7 @@
 					"numoutlets" : 0,
 					"patching_rect" : [ 717.583312999999976, 39.875, 363.354126000000008, 185.25 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 159.318833503616361, 50.500008919056029, 558.166686999999911, 113.236435 ],
+					"presentation_rect" : [ 79.318833503616361, 33.500008919056029, 558.166686999999911, 113.236435 ],
 					"proportion" : 0.39,
 					"pt1" : [ 0.5, 0.05 ],
 					"pt2" : [ 0.49505, 1.321739 ]
@@ -33079,7 +33079,7 @@
 					"numoutlets" : 0,
 					"patching_rect" : [ 79.5, 245.589111000000003, 339.566986083984375, 241.410898098634334 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 101.531533745521529, 41.506041999999979, 673.74127197265625, 478.987923498569103 ],
+					"presentation_rect" : [ 21.531533745521529, 24.506041999999979, 673.74127197265625, 478.987923498569103 ],
 					"tabname" : "Facilitator_Controls",
 					"taborder" : 0
 				}
