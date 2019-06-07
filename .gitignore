@@ -2,12 +2,6 @@
 node_modules/
 other/
 
-README.md
-LICENSE.md
-CHANGELOG.md
-
-.md
-
 # Compiled source #
 ###################
 *.com
@@ -32,7 +26,3 @@ CHANGELOG.md
 *.rar
 *.tar
 *.zip
-*.md
-CHANGELOG.md
-LICENSE.md
-README.md
