@@ -4,4 +4,4 @@ This app allows a user to control a slideshow of pictures and movies from a give
 
 ![EMG_Slideshow_Screenshot_Mac](images/emg_slideshow_alpha-screenshot.png)
 
-##### Developed by Richard Waltman, June 2019
+##### Created by Richard Waltman, June 2019
