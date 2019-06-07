@@ -60,7 +60,7 @@ Add additional notes about how to deploy this on a live system
 
 ## Built With
 
-* [Max/MSP](https://cycling74.com/) - Visual Programming Language & IDE
+* [Max/MSP](https://cycling74.com/) - Visual Programming Language
 
 ## Contributing
 
