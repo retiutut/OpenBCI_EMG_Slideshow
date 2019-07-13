@@ -8,13 +8,17 @@ This app allows a user to control a slideshow of pictures and movies from a give
 
 - OpenBCI Cyton or Ganglion
 - OpenBCI GUI
-- Mac running OS X
+- Windows or Mac computer
 - Dedicated WiFi router (for wireless iPad/tablet control)
 - iPad or any device with a web browser
 
+Optional:
+- Secondary display
+- HDMI or other video cable to connect to secondary display
+
 ### Installing
 
-Install the OpenBCI GUI to connect with hardware, then stream the data to this app using Open Sound Control (OSC) via the Networking Widget.
+Install the OpenBCI GUI and connect with hardware, then stream the data to this app using Open Sound Control (OSC) via the Networking Widget.
 
 ## Built With
 
