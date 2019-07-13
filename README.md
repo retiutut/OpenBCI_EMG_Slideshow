@@ -4,15 +4,13 @@ This app allows a user to control a slideshow of pictures and movies from a give
 
 ![EMG_Slideshow_Screenshot_Mac](images/emg_slideshow_alpha-screenshot.png)
 
-## Getting Started
-
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
-
 ### Prerequisites
 
 - OpenBCI Cyton or Ganglion
 - OpenBCI GUI
 - Mac running OS X
+- Dedicated WiFi router (for wireless iPad/tablet control)
+- iPad or any device with a web browser
 
 ### Installing
 
