@@ -34,35 +34,14 @@ until finished
 
 End with an example of getting some data out of the system or using it for a little demo
 
-## Running the tests
-
-Explain how to run the automated tests for this system
-
-### Break down into end to end tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-### And coding style tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
 ## Deployment
 
-Add additional notes about how to deploy this on a live system
+Install the OpenBCI GUI to connect with hardware, then stream the data to this app using Open Sound Control (OSC) via the Networking Widget.
 
 ## Built With
 
 * [Max/MSP](https://cycling74.com/) - Visual Programming Language
 
-## Contributing
 
 ## Versioning
 
@@ -74,13 +53,7 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
 
 ## License
 
-This project is licensed under the GNU GPL License - see the [LICENSE.md](LICENSE.md) file for details
-
-## Acknowledgments
-
-* Hat tip to anyone whose code was used
-* Inspiration
-* etc
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
 
 ## THINGS I INSTALLED:
 * ml.star (Max package manager)
