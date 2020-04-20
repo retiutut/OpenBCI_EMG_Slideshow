@@ -23,7 +23,7 @@ Optional:
 Install the OpenBCI GUI and connect with hardware, then stream the data to this app using Open Sound Control (OSC) via the Networking Widget.
 
 ### Setup
-Use Channels 3 and 4 with either the Cyton or Ganglion. Refer to the following illustration for details:
+Use Channels 3 and 4 with either the Cyton or Ganglion. Refer to the following illustration for details. Hand is **palm up*.
 
 ![EMG_Electrode_Placement](images/OpenBCI_EMG_Slideshow-Electrode_Placement.jp2)
 
