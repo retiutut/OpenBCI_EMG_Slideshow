@@ -7,7 +7,7 @@ This app allows a user to control a slideshow of pictures and movies from a give
 ### Prerequisites
 
 - OpenBCI Cyton or Ganglion
-- OpenBCI GUI
+- [OpenBCI GUI](openbci.com/downloads)
 - Windows or Mac computer
 - Dedicated WiFi router (for wireless iPad/tablet control)
 - iPad or any device with a web browser
