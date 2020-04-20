@@ -6,7 +6,7 @@ This app allows a user to control a slideshow of pictures and movies from a give
 
 ### Prerequisites
 
-- OpenBCI Cyton or Ganglion
+- OpenBCI [Ganglion](https://shop.openbci.com/collections/frontpage/products/ganglion-board) or [Cyton](https://shop.openbci.com/collections/frontpage/products/cyton-biosensing-board-8-channel)
 - [EMG/ECG Snap Electrode Cables](https://shop.openbci.com/collections/frontpage/products/emg-ecg-snap-electrode-cables)
 - [EMG/ECG Foam Solid Gel Electrodes](https://shop.openbci.com/collections/frontpage/products/skintact-f301-pediatric-foam-solid-gel-electrodes-30-pack)
 - [OpenBCI GUI](https://openbci.com/downloads)
