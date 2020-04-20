@@ -27,6 +27,19 @@ Use Channels 3 and 4 with either the Cyton or Ganglion. Refer to the following i
 
 ![EMG_Electrode_Placement](images/OpenBCI_EMG_Slideshow-Electrode_Placement.jp2)
 
+### Controls
+
+Using the Arm-Based approach and the suggested electrode placement, the user can control the slideshow with the following actions:  
+
+- Backward == Flex/Relax Right Arm
+- Forward == Open/Close Right Hand
+- Play/Pause == Close Hand and Flex Arm 
+
+Using the Head-Based approach with [Cyton 8 Channel board and default 10-20 locations](https://docs.openbci.com/docs/04AddOns/01-Headwear/MarkIV#electrode-location-overview):
+- Backward == Left Eye Blink
+- Forward == Right Eye Blink
+- Play/Pause == Jaw Clench
+
 ## Built With
 
 * [Max/MSP](https://cycling74.com/) - Visual Programming Language
