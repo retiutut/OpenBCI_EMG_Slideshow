@@ -29,6 +29,7 @@ Use Channels 3 and 4 with either the Cyton or Ganglion. Refer to the following i
 ![EMG_Electrode_Placement Illustration](images/Electrode_Placement-Illustration.jp2)
 ![EMG_Electrode_Placement - POOR GROUND LOCATION](images/Electrode_Placement-POOR_GROUND.jpg)
 ![EMG_Electrode_Placement - CORRECT](images/Electrode_Placement-CORRECT.jpg)
+![EMG_GUI_Setup - Screenshot](images/OpenBCI_GUI_EMG_Slideshow-NetworkingSetup.png)
 
 ### Controls
 
