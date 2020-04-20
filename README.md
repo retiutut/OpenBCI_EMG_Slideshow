@@ -30,6 +30,8 @@ Use Channels 3 and 4 with either the Cyton or Ganglion. Refer to the following i
 ## Built With
 
 * [Max/MSP](https://cycling74.com/) - Visual Programming Language
+* [Open Sound Control](http://opensoundcontrol.org/introduction-osc)
+* [CNMAT-odot](https://github.com/CNMAT/CNMAT-odot/releases)
 
 
 ## Versioning
