@@ -31,7 +31,7 @@ Use Channels 3 and 4 with either the Cyton or Ganglion. Refer to the following i
 
 * [Max/MSP](https://cycling74.com/) - Visual Programming Language
 * [Open Sound Control](http://opensoundcontrol.org/introduction-osc)
-* [CNMAT-odot](https://github.com/CNMAT/CNMAT-odot/releases)
+* [OpenBCI GUI](https://openbci.com/downloads)
 
 
 ## Versioning
@@ -48,3 +48,4 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## THINGS I INSTALLED:
 * ml.star (Max package manager)
+* [CNMAT-odot](https://github.com/CNMAT/CNMAT-odot/releases)
