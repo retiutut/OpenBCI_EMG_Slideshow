@@ -25,7 +25,7 @@ Install the OpenBCI GUI and connect with hardware, then stream the data to this 
 ### Setup
 Use Channels 3 and 4 with either the Cyton or Ganglion. Refer to the following illustration for details:
 
-![EMG_Electrode_Placement](images/OpenBCI_EMG_Slideshow-Electrode_Placement.jpg)
+![EMG_Electrode_Placement](images/OpenBCI_EMG_Slideshow-Electrode_Placement.jp2)
 
 ## Built With
 
