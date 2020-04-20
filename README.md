@@ -26,7 +26,7 @@ Install the OpenBCI GUI and connect with hardware, then stream the data to this 
 Use Channels 3 and 4 with either the Cyton or Ganglion. Refer to the following illustration for details. **Hand is palm up, with electrodes attached at specific locations on the inner forearm**. Ideally, user is sitting in a chair with arm rests or laying down. Direct user to let arm rest by his/her side with palm facing up.
 
 
-![EMG_Electrode_Placement Illustration](images/OpenBCI_EMG_Slideshow-Electrode_Placement-GanglionRightArm.jpeg)
+![EMG_Electrode_Placement Illustration](images/OpenBCI_EMG_Slideshow-Electrode_Placement-Illustration.jp2)
 ![EMG_Electrode_Placement - POOR GROUND LOCATION](images/OpenBCI_EMG_Slideshow-Electrode_Placement-POOR_GROUND.jpeg)
 ![EMG_Electrode_Placement - CORRECT](images/OpenBCI_EMG_Slideshow-Electrode_Placement-CORRECT.jpeg)
 
