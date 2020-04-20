@@ -7,10 +7,12 @@ This app allows a user to control a slideshow of pictures and movies from a give
 ### Prerequisites
 
 - OpenBCI Cyton or Ganglion
+- [EMG/ECG Snap Electrode Cables](https://shop.openbci.com/collections/frontpage/products/emg-ecg-snap-electrode-cables)
+- [EMG/ECG Foam Solid Gel Electrodes](https://shop.openbci.com/collections/frontpage/products/skintact-f301-pediatric-foam-solid-gel-electrodes-30-pack)
 - [OpenBCI GUI](https://openbci.com/downloads)
 - Windows or Mac computer
 - Dedicated WiFi router (for wireless iPad/tablet control)
-- iPad or any device with a web browser
+- iPad or other mobile device with a web browser
 
 Optional:
 - Secondary display
@@ -19,6 +21,8 @@ Optional:
 ### Installing
 
 Install the OpenBCI GUI and connect with hardware, then stream the data to this app using Open Sound Control (OSC) via the Networking Widget.
+
+### Setup
 
 ## Built With
 
