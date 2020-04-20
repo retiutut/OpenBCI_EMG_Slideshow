@@ -49,3 +49,4 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 ## THINGS I INSTALLED:
 * ml.star (Max package manager)
 * [CNMAT-odot](https://github.com/CNMAT/CNMAT-odot/releases)
+* MIRA (Max package manager)
