@@ -10,7 +10,7 @@
 		}
 ,
 		"classnamespace" : "box",
-		"rect" : [ 738.0, 403.0, 1365.0, 968.0 ],
+		"rect" : [ 600.0, 469.0, 1250.0, 632.0 ],
 		"bglocked" : 0,
 		"openinpresentation" : 1,
 		"default_fontsize" : 12.0,
@@ -38,6 +38,31 @@
 		"style" : "",
 		"subpatcher_template" : "",
 		"boxes" : [ 			{
+				"box" : 				{
+					"id" : "obj-10",
+					"items" : [ 4, "Channels", ",", 8, "Channels", ",", 16, "Channels" ],
+					"maxclass" : "umenu",
+					"numinlets" : 1,
+					"numoutlets" : 3,
+					"outlettype" : [ "int", "", "" ],
+					"parameter_enable" : 1,
+					"patching_rect" : [ 1108.0, 209.0, 100.0, 22.0 ],
+					"saved_attribute_attributes" : 					{
+						"valueof" : 						{
+							"parameter_longname" : "umenu[2]",
+							"parameter_mmax" : 2,
+							"parameter_shortname" : "umenu[2]",
+							"parameter_enum" : [ "4 Channels", "8 Channels", "16 Channels" ],
+							"parameter_type" : 2
+						}
+
+					}
+,
+					"varname" : "umenu[2]"
+				}
+
+			}
+, 			{
 				"box" : 				{
 					"fontname" : "Arial",
 					"fontsize" : 12.0,
@@ -1742,7 +1767,7 @@
 			}
 , 			{
 				"box" : 				{
-					"bgcolor" : [ 0.705882352941177, 0.705882352941177, 0.705882352941177, 1.0 ],
+					"bgcolor" : [ 0.501960784313725, 0.717647058823529, 0.764705882352941, 1.0 ],
 					"fontname" : "Lucida Console",
 					"fontsize" : 20.0,
 					"id" : "obj-56",
@@ -1752,7 +1777,7 @@
 					"patching_rect" : [ 114.020721500000036, 143.5, 159.0, 26.0 ],
 					"presentation" : 1,
 					"presentation_rect" : [ 290.391831503616231, 166.173459975341416, 161.0, 26.0 ],
-					"text" : "Display Off",
+					"text" : "Display On",
 					"textjustification" : 1
 				}
 
@@ -5043,7 +5068,7 @@
 						"valueof" : 						{
 							"parameter_longname" : "umenu",
 							"parameter_invisible" : 1,
-							"parameter_mmax" : -1.0,
+							"parameter_mmax" : 570.0,
 							"parameter_shortname" : "umenu",
 							"parameter_type" : 3
 						}
@@ -5995,7 +6020,7 @@
 									"numoutlets" : 1,
 									"outlettype" : [ "" ],
 									"patching_rect" : [ 294.0, 491.0, 75.0, 22.0 ],
-									"text" : "1080 1920"
+									"text" : "1920 1080"
 								}
 
 							}
@@ -11290,7 +11315,7 @@
 						"valueof" : 						{
 							"parameter_longname" : "umenu[1]",
 							"parameter_invisible" : 1,
-							"parameter_mmax" : -1.0,
+							"parameter_mmax" : 570.0,
 							"parameter_shortname" : "umenu[1]",
 							"parameter_type" : 3
 						}
@@ -13217,7 +13242,7 @@
 						}
 ,
 						"classnamespace" : "box",
-						"rect" : [ 533.0, 233.0, 1099.0, 957.0 ],
+						"rect" : [ 1427.0, 345.0, 1099.0, 957.0 ],
 						"bglocked" : 0,
 						"openinpresentation" : 0,
 						"default_fontsize" : 12.0,
@@ -14412,7 +14437,20 @@
 										"style" : "",
 										"subpatcher_template" : "",
 										"showontab" : 0,
+										"visible" : 1,
 										"boxes" : [ 											{
+												"box" : 												{
+													"id" : "obj-4",
+													"maxclass" : "message",
+													"numinlets" : 2,
+													"numoutlets" : 1,
+													"outlettype" : [ "" ],
+													"patching_rect" : [ 247.799987999999985, 149.199989000000016, 79.0, 22.0 ],
+													"text" : "0.2 1. 1. 0. 0."
+												}
+
+											}
+, 											{
 												"box" : 												{
 													"id" : "obj-20",
 													"maxclass" : "message",
@@ -14431,8 +14469,8 @@
 													"numinlets" : 2,
 													"numoutlets" : 1,
 													"outlettype" : [ "" ],
-													"patching_rect" : [ 403.799987999999985, 117.0, 81.0, 22.0 ],
-													"text" : "1. 0.5 0. 0. 1."
+													"patching_rect" : [ 81.799987999999985, 149.199989000000016, 79.0, 22.0 ],
+													"text" : "1. 0.2 1. 0. 0."
 												}
 
 											}
@@ -14467,8 +14505,8 @@
 													"numinlets" : 2,
 													"numoutlets" : 1,
 													"outlettype" : [ "" ],
-													"patching_rect" : [ 215.799988000000013, 184.199996999999996, 141.0, 22.0 ],
-													"text" : "0. 1. 0. 1. 0."
+													"patching_rect" : [ 215.799988000000013, 184.199996999999996, 72.0, 22.0 ],
+													"text" : "1. 0. 0. 1. 0."
 												}
 
 											}
@@ -14479,8 +14517,8 @@
 													"numinlets" : 2,
 													"numoutlets" : 1,
 													"outlettype" : [ "" ],
-													"patching_rect" : [ 44.200004999999997, 184.199996999999996, 141.0, 22.0 ],
-													"text" : "1. 0. 1. 0. 0."
+													"patching_rect" : [ 44.200004999999997, 184.199996999999996, 72.0, 22.0 ],
+													"text" : "0. 1. 1. 0. 0."
 												}
 
 											}
@@ -15522,12 +15560,12 @@
 , 											{
 												"box" : 												{
 													"id" : "obj-22",
-													"linecount" : 2,
+													"linecount" : 3,
 													"maxclass" : "comment",
 													"numinlets" : 1,
 													"numoutlets" : 0,
-													"patching_rect" : [ 196.0, 228.0, 95.0, 33.0 ],
-													"text" : "Forward == Right Fist"
+													"patching_rect" : [ 215.799988000000013, 223.599990999999989, 95.0, 47.0 ],
+													"text" : "Forward == Open/Close hand"
 												}
 
 											}
@@ -15539,7 +15577,7 @@
 													"numinlets" : 1,
 													"numoutlets" : 0,
 													"patching_rect" : [ 31.0, 223.599990999999989, 87.0, 33.0 ],
-													"text" : "Backward == Left Fist"
+													"text" : "Backward == Flex Arm"
 												}
 
 											}
@@ -15714,12 +15752,12 @@
 													"fontface" : 0,
 													"fontsize" : 20.0,
 													"id" : "obj-33",
-													"linecount" : 11,
+													"linecount" : 13,
 													"maxclass" : "comment",
 													"numinlets" : 1,
 													"numoutlets" : 0,
-													"patching_rect" : [ 1117.40002400000003, 34.199989000000002, 268.666655999999989, 252.0 ],
-													"text" : "--Response Metrics Inputs --\nNormalized EMG data 0.-1.\n\n-- MLP Outputs -- 3 floats\nForward: 0.-1.\nBackward: 0.-1.\nPlay/Pause: 0.-1.\n\nBackward == Left Fist\nForward == Right Fist\nPlay/Pause == Both Fist"
+													"patching_rect" : [ 1061.40002400000003, 16.199989000000002, 365.666655999999875, 297.0 ],
+													"text" : "--Response Metrics Inputs --\nNormalized EMG data 0.-1.\n\n-- MLP Outputs -- 3 floats\nForward: 0.-1.\nBackward: 0.-1.\nPlay/Pause: 0.-1.\n\n\nBackward == Flex Right Arm\nForward == Open/Close Right Hand\nPlay/Pause == Close Hand and Flex Arm"
 												}
 
 											}
@@ -15907,6 +15945,13 @@
 												"patchline" : 												{
 													"destination" : [ "obj-3", 0 ],
 													"source" : [ "obj-12", 0 ]
+												}
+
+											}
+, 											{
+												"patchline" : 												{
+													"destination" : [ "obj-4", 0 ],
+													"source" : [ "obj-12", 6 ]
 												}
 
 											}
@@ -16761,7 +16806,6 @@
 						"tags" : "",
 						"style" : "",
 						"subpatcher_template" : "",
-						"visible" : 1,
 						"boxes" : [ 							{
 								"box" : 								{
 									"comment" : "",
@@ -16770,7 +16814,7 @@
 									"maxclass" : "inlet",
 									"numinlets" : 0,
 									"numoutlets" : 1,
-									"outlettype" : [ "" ],
+									"outlettype" : [ "int" ],
 									"patching_rect" : [ 896.0, 64.0, 30.0, 30.0 ]
 								}
 
@@ -16783,7 +16827,7 @@
 									"numoutlets" : 1,
 									"outlettype" : [ "" ],
 									"patching_rect" : [ 742.0, 360.0, 128.0, 22.0 ],
-									"text" : "4 0.02226"
+									"text" : "4 0."
 								}
 
 							}
@@ -35275,6 +35319,13 @@
 			}
 , 			{
 				"patchline" : 				{
+					"destination" : [ "obj-1", 0 ],
+					"source" : [ "obj-10", 0 ]
+				}
+
+			}
+, 			{
+				"patchline" : 				{
 					"destination" : [ "obj-28", 0 ],
 					"midpoints" : [ 400.260375999999951, 231.0, 66.0, 231.0, 66.0, 498.0, 123.0, 498.0, 123.0, 489.0, 138.0, 489.0 ],
 					"source" : [ "obj-12", 1 ]
@@ -35772,6 +35823,7 @@
 			"obj-72::obj-98" : [ "toggle[3]", "toggle[3]", 0 ],
 			"obj-32" : [ "button[5]", "button[5]", 0 ],
 			"obj-29" : [ "button[4]", "button[3]", 0 ],
+			"obj-10" : [ "umenu[2]", "umenu[2]", 0 ],
 			"obj-5" : [ "umenu", "umenu", 0 ],
 			"obj-78::obj-72" : [ "number[3]", "number[3]", 0 ],
 			"obj-12::obj-98" : [ "toggle[4]", "toggle[3]", 0 ],
