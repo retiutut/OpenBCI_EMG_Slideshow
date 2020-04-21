@@ -72,10 +72,10 @@
 					"numoutlets" : 0,
 					"patching_rect" : [ 786.97387700000013, 205.125, 235.0, 20.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 88.760375999999951, 75.801041919056019, 207.0, 20.0 ],
+					"presentation_rect" : [ 383.402177003616316, 75.801041919056019, 156.0, 20.0 ],
 					"text" : "Current Version: 0.2.0",
 					"textcolor" : [ 0.862745, 0.870588, 0.878431, 1.0 ],
-					"textjustification" : 1
+					"textjustification" : 2
 				}
 
 			}
@@ -6020,7 +6020,7 @@
 									"numoutlets" : 1,
 									"outlettype" : [ "" ],
 									"patching_rect" : [ 294.0, 491.0, 75.0, 22.0 ],
-									"text" : "1920 1080"
+									"text" : "2744 3662"
 								}
 
 							}
@@ -13269,7 +13269,6 @@
 						"tags" : "",
 						"style" : "",
 						"subpatcher_template" : "",
-						"visible" : 1,
 						"boxes" : [ 							{
 								"box" : 								{
 									"id" : "obj-1",
@@ -13428,18 +13427,6 @@
 									"outlettype" : [ "bang", "int" ],
 									"patching_rect" : [ 787.166625999999951, 753.0, 30.0, 22.0 ],
 									"text" : "t b i"
-								}
-
-							}
-, 							{
-								"box" : 								{
-									"id" : "obj-171",
-									"maxclass" : "number",
-									"numinlets" : 1,
-									"numoutlets" : 2,
-									"outlettype" : [ "", "bang" ],
-									"parameter_enable" : 0,
-									"patching_rect" : [ 787.166625999999951, 726.0, 50.0, 22.0 ]
 								}
 
 							}
@@ -14437,7 +14424,6 @@
 										"style" : "",
 										"subpatcher_template" : "",
 										"showontab" : 0,
-										"visible" : 1,
 										"boxes" : [ 											{
 												"box" : 												{
 													"id" : "obj-4",
@@ -16271,8 +16257,7 @@
 							}
 , 							{
 								"patchline" : 								{
-									"destination" : [ "obj-171", 0 ],
-									"midpoints" : [ 796.666625999999951, 726.0, 796.666625999999951, 726.0 ],
+									"destination" : [ "obj-174", 0 ],
 									"source" : [ "obj-144", 0 ]
 								}
 
@@ -16411,14 +16396,6 @@
 									"midpoints" : [ 392.666747999999984, 330.0, 390.916747999999984, 330.0 ],
 									"order" : 1,
 									"source" : [ "obj-17", 0 ]
-								}
-
-							}
-, 							{
-								"patchline" : 								{
-									"destination" : [ "obj-174", 0 ],
-									"midpoints" : [ 796.666625999999951, 750.0, 796.666625999999951, 750.0 ],
-									"source" : [ "obj-171", 0 ]
 								}
 
 							}
@@ -16734,10 +16711,10 @@
 					"numoutlets" : 0,
 					"patching_rect" : [ 781.760375999999951, 84.499999999999986, 235.0, 20.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 254.902177003616373, 75.801041919056019, 207.0, 20.0 ],
+					"presentation_rect" : [ 177.402177003616373, 75.801041919056019, 169.0, 20.0 ],
 					"text" : "Richard Waltman, June 2019",
 					"textcolor" : [ 0.862745, 0.870588, 0.878431, 1.0 ],
-					"textjustification" : 1
+					"textjustification" : 0
 				}
 
 			}
@@ -16827,7 +16804,7 @@
 									"numoutlets" : 1,
 									"outlettype" : [ "" ],
 									"patching_rect" : [ 742.0, 360.0, 128.0, 22.0 ],
-									"text" : "4 0."
+									"text" : "4 0.002565"
 								}
 
 							}
